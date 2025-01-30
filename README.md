@@ -207,7 +207,6 @@ My Puffy pink and blue calculator
 </body>
 </html>
 
-
 https://github.com/user-attachments/assets/bcf13282-d47d-4b06-93c3-c1ad2b120115
 
 ## Overview
@@ -215,10 +214,3 @@ https://github.com/user-attachments/assets/bcf13282-d47d-4b06-93c3-c1ad2b120115
 ## Users
 
 ## Learnings
-
-
-## Overview
-
-## User
-
-## Learnings 
