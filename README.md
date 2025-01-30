@@ -210,7 +210,10 @@ My Puffy pink and blue calculator
 https://github.com/user-attachments/assets/bcf13282-d47d-4b06-93c3-c1ad2b120115
 
 ## Overview
+I initially wanted my design to resemble a puffer jacket with a cloud like shape but when I placed it into Claude.ai I was not really given the image I desired even after attempting to make multiple changes with the program. I settled on doing some adjustments in terms of colors and the shape of the buttons. 
 
 ## Users
+The users of this design would be anyone needing to use a calculator. The design is a touch design so it is one that you should be able to access on multiple different devices. 
 
 ## Learnings
+I found that the way I wanted the calculators body off this puffy cloud like texture ended up being something that wasn't really attainable and often made the design look rather wrong in nature. I would love to learn how to put more advanced designs and patterns in my design and I think that would be something that I could apply if I learn more advanced methods of coding. 
